@@ -1,1 +1,6 @@
+Milk
+Bread
 Eggs
+
+--Desserts--
+Ice Cream
